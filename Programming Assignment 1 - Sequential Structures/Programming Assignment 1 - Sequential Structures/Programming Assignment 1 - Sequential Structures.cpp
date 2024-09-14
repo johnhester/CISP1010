@@ -8,6 +8,7 @@
     in Kelvin and Fahrenheit
 */
 #include <iostream>
+#include <typeinfo>
 #include <string>
 using namespace std;
 

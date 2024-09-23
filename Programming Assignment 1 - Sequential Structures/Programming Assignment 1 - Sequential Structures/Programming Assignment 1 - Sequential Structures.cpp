@@ -48,7 +48,7 @@ int main()
 
     cout << endl;
     cout << "Hello, " << name << endl;
-    cout << "Today's Date is " << month << ", " << day << ", " << year << endl;
+    cout << "Today's Date is " << month << " " << day << ", " << year << endl;
     cout << "Current City: " << city << ", " << state << endl;
     cout << "It is currently " << temp_c << " degrees Celsius" << endl;
     cout << "It is currently " << temp_f << " degrees Fahrenheit" << endl;

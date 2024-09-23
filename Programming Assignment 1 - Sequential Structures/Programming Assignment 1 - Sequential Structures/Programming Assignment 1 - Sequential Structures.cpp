@@ -8,7 +8,7 @@
     in Kelvin and Fahrenheit
 */
 #include <iostream>
-#include <typeinfo>
+#include <iomanip>
 #include <string>
 using namespace std;
 
@@ -21,20 +21,19 @@ int main()
     // User input section
     cout << "Hello! Welcome to temp converter!\n" << "I am going to ask you for some information.\n";
     cout << "What is your name?\n";
-    cin >> name;
+    getline(cin, name);
     cout << "What month is it?\n";
-    cin >> month;
+    getline(cin, month);
     cout << "What day of the month is it?\n";
     cin >> day;
     cout << "What year is it?\n";
     cin >> year;
     cout << "What city are you from?\n";
-    cin >> city;
+    getline(cin, city);
     cout << "What state is that in?\n";
-    cin >> state;
-    cout << "What is the current temperature in Celsius?\n";
+    getline(cin, state);
+    cout << "What is the current temperature in Celsius? Please enter in integer format\n";
     cin >> temp_c;
-    cout << "\nThank you for your patience. Converting temperatures...\n\n";
 
     /*
         Temp Calculations:
@@ -50,9 +49,9 @@ int main()
     cout << "Hello, " << name << endl;
     cout << "Today's Date is " << month << " " << day << ", " << year << endl;
     cout << "Current City: " << city << ", " << state << endl;
-    cout << "It is currently " << temp_c << " degrees Celsius" << endl;
-    cout << "It is currently " << temp_f << " degrees Fahrenheit" << endl;
-    cout << "It is currently " << temp_k << " degrees Kelvin" << endl;
+    cout << "It is currently " << setprecision(1) << fixed << showpoint << temp_c << " degrees Celsius" << endl;
+    cout << "It is currently " << setprecision(1) << fixed << showpoint << temp_f << " degrees Fahrenheit" << endl;
+    cout << "It is currently " << setprecision(1) << fixed << showpoint << temp_k << " degrees Kelvin" << endl;
 
 
 

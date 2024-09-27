@@ -2,7 +2,7 @@
     John Hester
     CISP 1010-W02
     Programming Assignment 1
-    Last Date Modified: 09/13/2024
+    Last Date Modified: 09/22/2024
     Program Description: This program prompts the user for information (Name, current date, city & state) and the temp in celsius. It then returns that information formatted 
         with the temp in Celsius, Fahrenheit, and Kelvin
     in Kelvin and Fahrenheit
@@ -19,20 +19,21 @@ int main()
     float temp_c, temp_f, temp_k;
 
     // User input section
-    cout << "Hello! Welcome to temp converter!\n" << "I am going to ask you for some information.\n";
-    cout << "What is your name?\n";
+    cout << "Enter your name: ";
     getline(cin, name);
-    cout << "What month is it?\n";
+    cout << "Enter the month: ";
     getline(cin, month);
-    cout << "What day of the month is it?\n";
+    cout << "Enter the day of the month: ";
     cin >> day;
-    cout << "What year is it?\n";
+    cout << "Enter the year: ";
     cin >> year;
-    cout << "What city are you from?\n";
+    cout << "Enter the city: ";
+    //gets rid of newline character from cin above 
+    cin.ignore(); 
     getline(cin, city);
-    cout << "What state is that in?\n";
+    cout << "Enter the state: ";
     getline(cin, state);
-    cout << "What is the current temperature in Celsius? Please enter in integer format\n";
+    cout << "What is the current temperature in Celsius? ";
     cin >> temp_c;
 
     /*

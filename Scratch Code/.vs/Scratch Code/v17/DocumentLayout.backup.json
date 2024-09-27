@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John\\workspace\\CISP 1010\\Scratch Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B49D66-1BF3-4FF6-AFF9-DA38D3F312F7}|Scratch Code\\Scratch Code.vcxproj|C:\\Users\\John\\workspace\\CISP 1010\\Scratch Code\\Scratch Code\\Scratch Code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2B49D66-1BF3-4FF6-AFF9-DA38D3F312F7}|Scratch Code\\Scratch Code.vcxproj|solutionrelative:Scratch Code\\Scratch Code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scratch Code.cpp",
+              "DocumentMoniker": "C:\\Users\\John\\workspace\\CISP 1010\\Scratch Code\\Scratch Code\\Scratch Code.cpp",
+              "RelativeDocumentMoniker": "Scratch Code\\Scratch Code.cpp",
+              "ToolTip": "C:\\Users\\John\\workspace\\CISP 1010\\Scratch Code\\Scratch Code\\Scratch Code.cpp",
+              "RelativeToolTip": "Scratch Code\\Scratch Code.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T04:42:31.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

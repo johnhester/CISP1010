@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John\\workspace\\CISP 1010\\Module 4 In-Class Activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4AD493-5F0A-4B99-A17C-4629E1ED8603}|Module 4 In-Class Activity\\Module 4 In-Class Activity.vcxproj|C:\\Users\\John\\workspace\\CISP 1010\\Module 4 In-Class Activity\\Module 4 In-Class Activity\\Module 4 In-Class Activity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F4AD493-5F0A-4B99-A17C-4629E1ED8603}|Module 4 In-Class Activity\\Module 4 In-Class Activity.vcxproj|solutionrelative:Module 4 In-Class Activity\\Module 4 In-Class Activity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module 4 In-Class Activity.cpp",
+              "DocumentMoniker": "C:\\Users\\John\\workspace\\CISP 1010\\Module 4 In-Class Activity\\Module 4 In-Class Activity\\Module 4 In-Class Activity.cpp",
+              "RelativeDocumentMoniker": "Module 4 In-Class Activity\\Module 4 In-Class Activity.cpp",
+              "ToolTip": "C:\\Users\\John\\workspace\\CISP 1010\\Module 4 In-Class Activity\\Module 4 In-Class Activity\\Module 4 In-Class Activity.cpp",
+              "RelativeToolTip": "Module 4 In-Class Activity\\Module 4 In-Class Activity.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T07:27:25.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

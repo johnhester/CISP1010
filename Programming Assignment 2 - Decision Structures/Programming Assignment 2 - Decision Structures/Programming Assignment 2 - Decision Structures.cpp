@@ -9,22 +9,45 @@ Description: This program is going to take in sure info and calculate grades usi
 #include <iomanip>
 using namespace std;
 
+//function for input validation
+double inputChecker() 
+{   
+    double input;
+
+    cin >> input;
+
+    if (input >= 0 && input <= 100)
+    {
+        return input;
+    }
+    else 
+    {
+        cout << "Invalid input!Please input a grade between 0 and 100: ";
+        cin >> input;
+        return input;
+    }
+
+}
+
 int main()
 {
+    //establish values
     double exam1, exam2, exam3, examAvg, homeworkAvg, quizAvg, totalAvg;
+
+
     //input
     cout << "Hello!" << endl << endl;
     cout << "Please enter your homework average: ";
-    cin >> homeworkAvg;
+    homeworkAvg = inputChecker();
     cout << "\nPlease enter your quiz average: ";
-    cin >> quizAvg;
+    quizAvg = inputChecker();
     cout << "\nEnter your first exam score: ";
-    cin >> exam1;
+    exam1 = inputChecker();
     cout << "\nEnter your second exam score: ";
-    cin >> exam2;
+    exam2 = inputChecker();
     cout << "\nEnter your third exam score: ";
-    cin >> exam3;
-    cout << "\nThank you\n\n calculating..." << endl;
+    exam3 = inputChecker();
+    cout << "\nThank you\n\ncalculating..." << endl;
 
     //calculate grade
     /*
@@ -64,6 +87,8 @@ int main()
     }
     else //they're failing, more intense output 
     {
+        cout << "You are failing this course." << endl; //boooo hissss
+
         if (homeworkAvg < 60)
         {
             cout << "You need to do better on your homework!" << endl;
@@ -94,6 +119,7 @@ int main()
     {
         cout << "You have a D" << endl;
     }
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

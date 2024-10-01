@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\John\\workspace\\CISP 1010\\Programming Assignment 2 - Decision Structures\\",
+  "WorkspaceRootPath": "C:\\Users\\heste\\workspace\\collegeCourses\\CISP1010\\Programming Assignment 2 - Decision Structures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A5ACCD8-9EA0-47F5-833E-2652A5EB173D}|Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures.vcxproj|C:\\Users\\John\\workspace\\CISP 1010\\Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4A5ACCD8-9EA0-47F5-833E-2652A5EB173D}|Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures.vcxproj|C:\\Users\\heste\\workspace\\collegeCourses\\CISP1010\\Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4A5ACCD8-9EA0-47F5-833E-2652A5EB173D}|Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures.vcxproj|solutionrelative:Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,14 +20,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Programming Assignment 2 - Decision Structures.cpp",
-              "DocumentMoniker": "C:\\Users\\John\\workspace\\CISP 1010\\Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures.cpp",
+              "DocumentMoniker": "C:\\Users\\heste\\workspace\\collegeCourses\\CISP1010\\Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures.cpp",
               "RelativeDocumentMoniker": "Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures.cpp",
-              "ToolTip": "C:\\Users\\John\\workspace\\CISP 1010\\Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures.cpp",
+              "ToolTip": "C:\\Users\\heste\\workspace\\collegeCourses\\CISP1010\\Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures.cpp",
               "RelativeToolTip": "Programming Assignment 2 - Decision Structures\\Programming Assignment 2 - Decision Structures.cpp",
-              "ViewState": "AgIAACkAAAAAAAAAAAAiwC0AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-29T10:12:49.16Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -2,38 +2,42 @@
 //
 
 #include <iostream>
-#include <cmath>
+#include <string>
+
 using namespace std;
 
 int main()
 {
-	const int A_score = 90,
-		B_score = 80,
-		C_score = 70,
-		D_score = 60;
+    string name;
+    double score;
 
-	int testScore;
-	//get score
-	cout << "Enter you numeric test score and I will\n"
-		<< "tell you the letter grade you earned: ";
-	cin >> testScore;
+    cout << "Welcome to the Midterm 1 exam." << endl;
+    cout << "What is your name?";
 
-	//determine grade
-	if (testScore >= A_score)
-		cout << "Your grade is A.\n";
-	else if (testScore >= B_score)
-		cout << "Your grade is B.\n";
-	else if (testScore >= C_score)
-		cout << "Your grade is C.\n";
-	else if (testScore >= D_score)
-		cout << "Your grade is D.\n";
-	else if (testScore >= 0)
-		cout << "Your grade is F.\n";
-	else
-		cout << "Invalid test score.\n";
+    getline(cin, name);
 
+    cout << "What grade do you hope to receive? ";
+    cin >> score;
+
+    if (score >= 90)
+    {
+        cout << name << ", hope you get your A." << endl;
+    }
+    else if (score >= 80)
+    {
+        cout << name << ", hope you get your B." << endl;
+    }
+    else if(score >= 60)
+    {
+        cout << name << ", shoot for the A or B." << endl;
+    }
+    else
+    {
+        cout << name << ", you can do better!." << endl;
+    }
+
+    return 0;
 }
-
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 

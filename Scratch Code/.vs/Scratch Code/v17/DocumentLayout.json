@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "Scratch Code\\Scratch Code.cpp",
               "ToolTip": "C:\\Users\\John\\workspace\\CISP 1010\\Scratch Code\\Scratch Code\\Scratch Code.cpp",
               "RelativeToolTip": "Scratch Code\\Scratch Code.cpp",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-23T04:42:31.576Z",
               "EditorCaption": ""

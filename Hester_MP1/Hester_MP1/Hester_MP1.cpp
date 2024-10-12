@@ -9,6 +9,7 @@ Program will check for input greater than 0, else it will display an error messa
 #include <iostream>
 #include <iomanip>
 #include <string>
+#include <cmath>
 using namespace std;
 
 bool inputChecker(double input, string inputType) {
@@ -25,7 +26,7 @@ bool inputChecker(double input, string inputType) {
 
 int main()
 {
-    double hours, rate, otHours, otPay, regPay, totalPay;
+    long double hours, rate, otHours, otPay, regPay, totalPay;
     bool validHours, validRate;
     //input
     cout << "\nWelcome to pay estimator." << endl;
@@ -55,9 +56,16 @@ int main()
         else {
             totalPay = hours * rate;
         }
- 
+
         //output
-        cout << "\nYou earned $" << setprecision(2) << fixed << showpoint << totalPay << " this week." << endl;
+         
+        //cout << "\nYou earned $" << setprecision(2) << fixed << showpoint << totalPay << " this week." << endl;
+        // 
+        //Using setprecision(2), fixed, and showpoint as shown above produced inconsistent rounding output so I used the round function from the math library to do the actual calculation and the others to format output
+        double roundedTotalPay = round(totalPay * 100) / 100.0;
+
+        cout << "\nYou earned $" << setprecision(2) << fixed << showpoint << roundedTotalPay << " this week." << endl;
+
     }
 }
 

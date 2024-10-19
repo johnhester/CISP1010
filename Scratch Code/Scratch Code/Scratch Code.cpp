@@ -3,40 +3,38 @@
 
 #include <iostream>
 #include <string>
+#include <iomanip>
+//#include <limits>
 
 using namespace std;
 
-int main()
+void main()
 {
-    string name;
-    double score;
+    double hoursWorked, payPerHour, netPay;
 
-    cout << "Welcome to the Midterm 1 exam." << endl;
-    cout << "What is your name?";
+    cout << "\nEnter the number of hours the employee worked this week: ";
 
-    getline(cin, name);
-
-    cout << "What grade do you hope to receive? ";
-    cin >> score;
-
-    if (score >= 90)
+    while (!(cin >> hoursWorked) || hoursWorked < 0 || hoursWorked > 40)
     {
-        cout << name << ", hope you get your A." << endl;
-    }
-    else if (score >= 80)
-    {
-        cout << name << ", hope you get your B." << endl;
-    }
-    else if(score >= 60)
-    {
-        cout << name << ", shoot for the A or B." << endl;
-    }
-    else
-    {
-        cout << name << ", you can do better!." << endl;
+        cout << "\nInvalid input. Input a number between 0 and 40: ";
+        
+        cin.clear();
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
     }
 
-    return 0;
+    cout << "\nEnter the amount the emopee is paid per hour: ";
+    cin >> payPerHour;
+
+    while (payPerHour < 7.25 || payPerHour > 20.00)
+    {
+        cout << "\nInvalid pay rate. Please input a number between the federal minimum wage and $20.00 per hour: ";
+        cin >> payPerHour;
+    }
+
+    netPay = hoursWorked * payPerHour;
+
+    cout << "\nThe pay this week is $" << setprecision(2) << fixed << netPay << endl;
+
 }
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu

@@ -1,3 +1,2 @@
 ﻿  Scratch Code.cpp
-C:\Users\John\workspace\CISP 1010\Scratch Code\Scratch Code\Scratch Code.cpp(11,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
-LINK : fatal error LNK1168: cannot open C:\Users\John\workspace\CISP 1010\Scratch Code\x64\Debug\Scratch Code.exe for writing
+  Scratch Code.vcxproj -> C:\Users\John\workspace\CISP 1010\Scratch Code\x64\Debug\Scratch Code.exe

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John\\workspace\\CISP 1010\\PA4 - Working with Files - JH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3077C2D-D66A-4BBF-83D0-606657D8D590}|PA4 - Working with Files - JH\\PA4 - Working with Files - JH.vcxproj|C:\\Users\\John\\workspace\\CISP 1010\\PA4 - Working with Files - JH\\PA4 - Working with Files - JH\\PA4 - Working with Files - JH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3077C2D-D66A-4BBF-83D0-606657D8D590}|PA4 - Working with Files - JH\\PA4 - Working with Files - JH.vcxproj|solutionrelative:PA4 - Working with Files - JH\\PA4 - Working with Files - JH.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PA4 - Working with Files - JH.cpp",
+              "DocumentMoniker": "C:\\Users\\John\\workspace\\CISP 1010\\PA4 - Working with Files - JH\\PA4 - Working with Files - JH\\PA4 - Working with Files - JH.cpp",
+              "RelativeDocumentMoniker": "PA4 - Working with Files - JH\\PA4 - Working with Files - JH.cpp",
+              "ToolTip": "C:\\Users\\John\\workspace\\CISP 1010\\PA4 - Working with Files - JH\\PA4 - Working with Files - JH\\PA4 - Working with Files - JH.cpp",
+              "RelativeToolTip": "PA4 - Working with Files - JH\\PA4 - Working with Files - JH.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T23:36:29.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\John\\workspace\\CISP 1010\\PA3 - Repitition Structures\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{AF1F845A-48DC-4F9E-8ABF-56E40CE955F1}|Programming Assignment 3 - Repitition Structures - John Hester\\Programming Assignment 3 - Repitition Structures - John Hester.vcxproj|C:\\Users\\John\\workspace\\CISP 1010\\PA3 - Repitition Structures\\Programming Assignment 3 - Repitition Structures - John Hester\\PA3 - repitition structures - John Hester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\heste\\workspace\\collegeCourses\\CISP1010\\PA3 - Repitition Structures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1F845A-48DC-4F9E-8ABF-56E40CE955F1}|Programming Assignment 3 - Repitition Structures - John Hester\\Programming Assignment 3 - Repitition Structures - John Hester.vcxproj|C:\\Users\\heste\\workspace\\collegeCourses\\CISP1010\\PA3 - Repitition Structures\\Programming Assignment 3 - Repitition Structures - John Hester\\PA3 - repitition structures - John Hester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+>>>>>>> 49452040a0926fec28e25b5410b34de0bd4e2138
       "RelativeMoniker": "D:0:0:{AF1F845A-48DC-4F9E-8ABF-56E40CE955F1}|Programming Assignment 3 - Repitition Structures - John Hester\\Programming Assignment 3 - Repitition Structures - John Hester.vcxproj|solutionrelative:Programming Assignment 3 - Repitition Structures - John Hester\\PA3 - repitition structures - John Hester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,24 +21,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PA3 - repitition structures - John Hester.cpp",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\John\\workspace\\CISP 1010\\PA3 - Repitition Structures\\Programming Assignment 3 - Repitition Structures - John Hester\\PA3 - repitition structures - John Hester.cpp",
               "RelativeDocumentMoniker": "Programming Assignment 3 - Repitition Structures - John Hester\\PA3 - repitition structures - John Hester.cpp",
               "ToolTip": "C:\\Users\\John\\workspace\\CISP 1010\\PA3 - Repitition Structures\\Programming Assignment 3 - Repitition Structures - John Hester\\PA3 - repitition structures - John Hester.cpp",
               "RelativeToolTip": "Programming Assignment 3 - Repitition Structures - John Hester\\PA3 - repitition structures - John Hester.cpp",
               "ViewState": "AgIAACwAAAAAAAAAAAAAwG4AAAAAAAAAAAAAAA==",
+=======
+              "DocumentMoniker": "C:\\Users\\heste\\workspace\\collegeCourses\\CISP1010\\PA3 - Repitition Structures\\Programming Assignment 3 - Repitition Structures - John Hester\\PA3 - repitition structures - John Hester.cpp",
+              "RelativeDocumentMoniker": "Programming Assignment 3 - Repitition Structures - John Hester\\PA3 - repitition structures - John Hester.cpp",
+              "ToolTip": "C:\\Users\\heste\\workspace\\collegeCourses\\CISP1010\\PA3 - Repitition Structures\\Programming Assignment 3 - Repitition Structures - John Hester\\PA3 - repitition structures - John Hester.cpp",
+              "RelativeToolTip": "Programming Assignment 3 - Repitition Structures - John Hester\\PA3 - repitition structures - John Hester.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+>>>>>>> 49452040a0926fec28e25b5410b34de0bd4e2138
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-19T20:41:55.313Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -1,0 +1,6 @@
+﻿  PA5 - Modularization Structures - JH.cpp
+C:\Users\heste\workspace\collegeCourses\CISP1010\PA5 - Modularization Structures - JH\PA5 - Modularization Structures - JH\PA5 - Modularization Structures - JH.cpp(26,56): warning C4101: 'averageAmount': unreferenced local variable
+C:\Users\heste\workspace\collegeCourses\CISP1010\PA5 - Modularization Structures - JH\PA5 - Modularization Structures - JH\PA5 - Modularization Structures - JH.cpp(26,71): warning C4101: 'taxRate': unreferenced local variable
+C:\Users\heste\workspace\collegeCourses\CISP1010\PA5 - Modularization Structures - JH\PA5 - Modularization Structures - JH\PA5 - Modularization Structures - JH.cpp(26,80): warning C4101: 'costAfterTaxes': unreferenced local variable
+C:\Users\heste\workspace\collegeCourses\CISP1010\PA5 - Modularization Structures - JH\PA5 - Modularization Structures - JH\PA5 - Modularization Structures - JH.cpp(56,9): warning C4101: 'selection': unreferenced local variable
+  PA5 - Modularization Structures - JH.vcxproj -> C:\Users\heste\workspace\collegeCourses\CISP1010\PA5 - Modularization Structures - JH\x64\Debug\PA5 - Modularization Structures - JH.exe

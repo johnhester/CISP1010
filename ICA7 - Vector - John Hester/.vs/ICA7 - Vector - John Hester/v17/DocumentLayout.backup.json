@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John\\workspace\\CISP 1010\\ICA7 - Vector - John Hester\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD468A4-B7E4-4D22-A62B-768C8D96B0F4}|ICA7 - Vector - John Hester\\ICA7 - Vector - John Hester.vcxproj|C:\\Users\\John\\workspace\\CISP 1010\\ICA7 - Vector - John Hester\\ICA7 - Vector - John Hester\\ICA7 - Vector - John Hester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAD468A4-B7E4-4D22-A62B-768C8D96B0F4}|ICA7 - Vector - John Hester\\ICA7 - Vector - John Hester.vcxproj|solutionrelative:ICA7 - Vector - John Hester\\ICA7 - Vector - John Hester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICA7 - Vector - John Hester.cpp",
+              "DocumentMoniker": "C:\\Users\\John\\workspace\\CISP 1010\\ICA7 - Vector - John Hester\\ICA7 - Vector - John Hester\\ICA7 - Vector - John Hester.cpp",
+              "RelativeDocumentMoniker": "ICA7 - Vector - John Hester\\ICA7 - Vector - John Hester.cpp",
+              "ToolTip": "C:\\Users\\John\\workspace\\CISP 1010\\ICA7 - Vector - John Hester\\ICA7 - Vector - John Hester\\ICA7 - Vector - John Hester.cpp",
+              "RelativeToolTip": "ICA7 - Vector - John Hester\\ICA7 - Vector - John Hester.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T02:17:34.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

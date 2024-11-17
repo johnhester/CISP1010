@@ -1,0 +1,4 @@
+﻿  ICA7 - Array - John Hester.cpp
+C:\Users\John\workspace\CISP 1010\ICA7 - Array - John Hester\ICA7 - Array - John Hester\ICA7 - Array - John Hester.cpp(43,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\John\workspace\CISP 1010\ICA7 - Array - John Hester\ICA7 - Array - John Hester\ICA7 - Array - John Hester.cpp(60,13): warning C4101: 'tempNum': unreferenced local variable
+  ICA7 - Array - John Hester.vcxproj -> C:\Users\John\workspace\CISP 1010\ICA7 - Array - John Hester\x64\Debug\ICA7 - Array - John Hester.exe

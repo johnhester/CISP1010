@@ -3,7 +3,7 @@ John Hester
 CISP 1010-W02
 Programming Assignment 6
 11/16/24
-We're oging to do some stuff with arrays and grades
+We're going to do some stuff with arrays and grades
 */
 
 #include <iostream>
@@ -117,7 +117,7 @@ int loadArrays(ifstream& inputFile, string names[][NAME_COLS], double grades[][G
 }
 
 //calculate grades
-char calcGrade(double gradeCol[GRADE_COLS])
+char calcGrade(double gradeCol[])
 {
     double hwAvg, quizAvg, examAvg, average;
     /*
